@@ -1,6 +1,6 @@
 import requests
 
-url = "https://api.telegram.org/bot1230162522:AAGiRSx0lDsc8klMov02vSgvTS-Ki7ZL5w4/GetUpdates"
+url = "https://api.telegram.org/botتوکن بات خودتون/GetUpdates"
 
 result = requests.post(url)
 result = result.text
